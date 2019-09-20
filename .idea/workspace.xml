@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8d05a49-de03-4675-870f-8fbb8736bcdc" name="Default Changelist" comment="" />
+    <list default="true" id="d8d05a49-de03-4675-870f-8fbb8736bcdc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test/com/company/observer/TemperatuurStationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/company/observer/TemperatuurStationTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +164,7 @@
       <workItem from="1568846883100" duration="821000" />
       <workItem from="1568913400744" duration="101000" />
       <workItem from="1568917632819" duration="1784000" />
-      <workItem from="1568981020307" duration="920000" />
+      <workItem from="1568981020307" duration="1277000" />
     </task>
     <servers />
   </component>
