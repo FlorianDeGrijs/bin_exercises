@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8d05a49-de03-4675-870f-8fbb8736bcdc" name="Default Changelist" comment="" />
+    <list default="true" id="d8d05a49-de03-4675-870f-8fbb8736bcdc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/observer/TemperatuurStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/observer/TemperatuurStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/company/observer/TemperatuurStationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/company/observer/TemperatuurStationTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +21,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QQofaMOClXt6nN5Gr3c8VjQoTL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -56,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.TemperatuurStationTest.insertsAllObservers">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.observer.Main" />
       <module name="ict_2" />
@@ -109,8 +117,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemperatuurStationTest.insertsAllObservers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ict_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.observer" />
+      <option name="MAIN_CLASS_NAME" value="com.company.observer.TemperatuurStationTest" />
+      <option name="METHOD_NAME" value="insertsAllObservers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TemperatuurStationTest.insertsAllObservers" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TemperatuurStationTest.change" />
         <item itemvalue="Application.TemperatureMain" />
@@ -140,10 +165,22 @@
       <workItem from="1568846883100" duration="821000" />
       <workItem from="1568913400744" duration="101000" />
       <workItem from="1568917632819" duration="1784000" />
+      <workItem from="1568981020307" duration="548000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

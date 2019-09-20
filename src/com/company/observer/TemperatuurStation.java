@@ -29,4 +29,8 @@ public class TemperatuurStation {
     public double getTemperature() {
         return temperatuur;
     }
+
+    public int getObserverSize() {
+        return listeners.size();
+    }
 }
