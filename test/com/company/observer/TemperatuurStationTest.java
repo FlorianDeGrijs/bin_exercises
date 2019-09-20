@@ -40,4 +40,5 @@ public class TemperatuurStationTest {
         int five = 5;
         assertEquals(5, five);
     }
+
 }

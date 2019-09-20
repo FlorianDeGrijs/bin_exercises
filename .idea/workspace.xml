@@ -63,20 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TemperatuurStationTest.insertsAllObservers">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.observer.Main" />
-      <module name="ict_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.observer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TemperatuurStationTest.anotherUselessTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="ict_2" />
@@ -96,6 +83,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemperatuurStationTest.anotherUselessTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ict_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.observer" />
+      <option name="MAIN_CLASS_NAME" value="com.company.observer.TemperatuurStationTest" />
+      <option name="METHOD_NAME" value="anotherUselessTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TemperatuurStationTest.anotherUselessTest" />
         <item itemvalue="JUnit.TemperatuurStationTest.insertsAllObservers" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TemperatuurStationTest.change" />
         <item itemvalue="Application.TemperatureMain" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
