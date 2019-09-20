@@ -34,4 +34,10 @@ public class TemperatuurStationTest {
         temperatuurStation.insert(c2);
         assertEquals(2, temperatuurStation.getObserverSize());
     }
+
+    @Test
+    public void uslessTest() {
+        int five = 5;
+        assertEquals(5, five);
+    }
 }
