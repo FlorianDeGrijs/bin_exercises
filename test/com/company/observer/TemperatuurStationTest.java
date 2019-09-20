@@ -41,4 +41,10 @@ public class TemperatuurStationTest {
         assertEquals(5, five);
     }
 
+    @Test
+    public void anotherUselessTest() {
+        int four = 3;
+        assertNotEquals(4, four);
+    }
+
 }
