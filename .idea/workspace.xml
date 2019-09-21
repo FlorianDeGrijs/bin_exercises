@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8d05a49-de03-4675-870f-8fbb8736bcdc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/adapter/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/adapter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/adapter/Kilomiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/adapter/MainAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/adapter/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/stragety/Eend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/stragety/Fluiten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/stragety/KwaakGedrag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/stragety/Kwaken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/stragety/MainStragety.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/stragety/SpringenVliegen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/stragety/VleugelsVliegen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/stragety/VliegGedrag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d8d05a49-de03-4675-870f-8fbb8736bcdc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainStragety">
+  <component name="RunManager" selected="Application.MainSingleton">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="ict_2" />
@@ -93,6 +78,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.singleton.MainSingleton" />
+      <module name="ict_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,29 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemperatuurStationTest.insertsAllObservers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ict_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.observer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company.observer" />
-      <option name="MAIN_CLASS_NAME" value="com.company.observer.TemperatuurStationTest" />
-      <option name="METHOD_NAME" value="insertsAllObservers" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainSingleton" />
         <item itemvalue="Application.MainStragety" />
         <item itemvalue="Application.MainAdapter" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TemperatuurStationTest.anotherUselessTest" />
-        <item itemvalue="JUnit.TemperatuurStationTest.insertsAllObservers" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +160,7 @@
       <workItem from="1568913400744" duration="101000" />
       <workItem from="1568917632819" duration="1784000" />
       <workItem from="1568981020307" duration="1277000" />
-      <workItem from="1569081259730" duration="4828000" />
+      <workItem from="1569081259730" duration="5155000" />
     </task>
     <servers />
   </component>
